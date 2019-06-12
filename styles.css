@@ -41,7 +41,7 @@ body {
   .lefttop {
     width: 306px;
     height: 310px;
-    background-image: url('../assets/ava.jpg');
+    background-image: url('./ava.jpg');
     background-size: contain
   }
   
